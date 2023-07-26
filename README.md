@@ -1,4 +1,4 @@
-# Paper_with_code_for_communication_and_network
+# Paper with code for communication and network
 
 CCF: [Recommended Publications by China Computer Federation](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
 
