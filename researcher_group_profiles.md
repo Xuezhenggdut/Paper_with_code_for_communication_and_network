@@ -58,7 +58,7 @@ Academic Group
 | - | [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html) | Intel | - | - | [Link](https://github.com/IntelLabs) | - |
 | [Naiyan Wang](https://winsty.net/) | [TuSimple](https://cn.tusimple.com/) | TuSimple | [Link](https://ieeexplore.ieee.org/author/37085671305) | [Link](https://ieeexplore.ieee.org/author/37085671305) | - | [Link](https://github.com/TuSimple) |
 
-## Awesome-CV-Team
+## CV-Team
 - [Awesome-CV-Team](https://github.com/extreme-assistant/Awesome-CV-Team)
 
 Simulator
