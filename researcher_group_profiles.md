@@ -36,18 +36,18 @@ Academic Group
 | Hongyang Li | [OpenDriveLab](https://opendrivelab.com/) | Shanghai Jiaotong University | [Link](https://scholar.google.com/citations?hl=en&user=Hfrih1EAAAAJ&view_op=list_works&sortby=pubdate) | [Link](https://ieeexplore.ieee.org/author/37089612139) | [Link](https://github.com/OpenDriveLab) | -
 | Chen Feng | [AI4CE Lab](https://ai4ce.github.io/) | New York University | [Link](https://scholar.google.com/citations?user=YeG8ZM0AAAAJ&hl=en&oi=ao) | [Link](https://ieeexplore.ieee.org/author/37086391326) | - | [Yiming Li](https://roboticsyimingli.github.io/)
 | Haixia Zhang | [ICON Lab](http://www.icon.sdu.edu.cn/index.htm) | Shandong University | [Link](http://control.sdu.edu.cn/info/1083/2286.htm) | [Link](https://ieeexplore.ieee.org/author/37280795800) | - | -
-| [Falko Dressler](https://www.tkn.tu-berlin.de/team/dressler/) | [TKN](https://www.tkn.tu-berlin.de/) | TU Berlin | - | [Link](https://ieeexplore.ieee.org/author/37088730245) | [Link](https://github.com/tkn-tub) | - |
-| [Jian Sun](https://tops.tongji.edu.cn/index.htm)| [TOPS](https://tops.tongji.edu.cn/index.htm) | Tongji University | - | [Link](https://ieeexplore.ieee.org/author/37407524800) | - | - | 
-| [Jie Wang](https://miralab.ai/people/jie-wang/) | [MIRA Lab](https://miralab.ai/) | USTC | - | [Link](https://ieeexplore.ieee.org/author/37088893312) | [Link](https://github.com/MIRALab-USTC) | - |
+| [Falko Dressler](https://www.tkn.tu-berlin.de/team/dressler/) | [TKN](https://www.tkn.tu-berlin.de/) | TU Berlin | [Link](https://scholar.google.com/citations?user=sK8213AAAAAJ&hl=en&oi=ao) | [Link](https://ieeexplore.ieee.org/author/37088730245) | [Link](https://github.com/tkn-tub) | - |
+| [Jian Sun](https://tops.tongji.edu.cn/index.htm)| [TOPS](https://tops.tongji.edu.cn/index.htm) | Tongji University | [Link](https://scholar.google.com/citations?user=ALVSZAYAAAAJ&hl=en&oi=sra) | [Link](https://ieeexplore.ieee.org/author/37407524800) | - | - | 
+| [Jie Wang](https://miralab.ai/people/jie-wang/) | [MIRA Lab](https://miralab.ai/) | USTC | [Link](https://scholar.google.com/citations?user=OugG4dUAAAAJ&hl=en&oi=sra) | [Link](https://ieeexplore.ieee.org/author/37088893312) | [Link](https://github.com/MIRALab-USTC) | - |
 | Wei Zhan | [MSC Lab](https://msc.berkeley.edu/) | UC Berkeley | [Link](https://scholar.google.com/citations?hl=en&user=xVN3UxYAAAAJ&view_op=list_works&sortby=pubdate) | [Link](https://ieeexplore.ieee.org/author/37088772102) | [Link](https://github.com/microsoft) | - |
 | Moshe Ben-Akiva | [ITS Lab](https://www.its.mit.edu/) | MIT | [Link](https://scholar.google.com/citations?user=HubmsyoAAAAJ&hl=en&oi=ao) | [Link](https://ieeexplore.ieee.org/author/38277775200) | - | - |
-| [Song Han](https://songhan.mit.edu/) | [HAN Lab](https://songhan.mit.edu/) | MIT | - | [Link](https://ieeexplore.ieee.org/author/37086460117) | - | [Link](https://github.com/mit-han-lab) |
+| [Song Han](https://songhan.mit.edu/) | [HAN Lab](https://songhan.mit.edu/) | MIT | [Link](https://scholar.google.com/citations?user=E0iCaa4AAAAJ&hl=en&oi=sra) | [Link](https://ieeexplore.ieee.org/author/37086460117) | - | [Link](https://github.com/mit-han-lab) |
 | Kazuya Takeda | [BSPL](https://takedalab.g.sp.m.is.nagoya-u.ac.jp/groups/autonomous-driving-group) | Nagoya University | [Link](https://scholar.google.com/citations?hl=en&user=O4epWMcAAAAJ&pagesize=100&view_op=list_works&sortby=pubdate) | [Link](https://ieeexplore.ieee.org/author/37269965700) | - | - |
-| [Deva Kannan Ramanan](https://www.ri.cmu.edu/ri-faculty/deva-kannan-ramanan/) | [CMU AV Center](https://labs.ri.cmu.edu/av-center/) | Carnegie Mellon University | - | - | - | - |
+| [Deva Kannan Ramanan](https://www.ri.cmu.edu/ri-faculty/deva-kannan-ramanan/) | [CMU AV Center](https://labs.ri.cmu.edu/av-center/) | Carnegie Mellon University | [Link](https://scholar.google.com/citations?user=9B8PoXUAAAAJ&hl=en&oi=ao) | [Link](https://ieeexplore.ieee.org/author/37393712400) | - | - |
 | Ian Manchester | [ACFR](https://robotics.sydney.edu.au/) | University of Sydney | [Link](https://scholar.google.com/citations?user=VEPTSCUAAAAJ&hl=en&oi=ao) | [Link](https://ieeexplore.ieee.org/author/37403574900) | - | - |
-| Dariu M. Gavrila | [IV](https://intelligent-vehicles.org/) | Delft University of Technology | [Link](https://scholar.google.com/citations?hl=en&user=wQU1dJAAAAAJ&pagesize=100&view_op=list_works) | [Link](https://ieeexplore.ieee.org/author/37284630500) | [TU Delft Intelligent Vehicles](https://github.com/tudelft-iv) | - |
-| [Ming C. Lin](http://www.cs.umd.edu/~lin/) | [GAMMA Research Group](https://gamma.umd.edu/) | University of Maryland | - | [Link](https://ieeexplore.ieee.org/author/37278387400) | - | - |
-| [Marco Pavone](https://web.stanford.edu/~pavone/index.html) | [NVIDIA Research (AV)](https://nvr-avg.github.io/) | NVIDIA | - | [Link](https://ieeexplore.ieee.org/author/37307912900) | [NVLabs](https://github.com/NVlabs) | - |
+| Dariu M. Gavrila | [IV](https://intelligent-vehicles.org/) | Delft University of Technology | [Link](https://scholar.google.com/citations?hl=en&user=wQU1dJAAAAAJ&pagesize=100&view_op=list_works) | [Link](https://ieeexplore.ieee.org/author/37284630500) | [Link](https://github.com/tudelft-iv) | - |
+| [Ming C. Lin](http://www.cs.umd.edu/~lin/) | [GAMMA Research Group](https://gamma.umd.edu/) | University of Maryland | [Link](https://scholar.google.com/citations?user=ugFNit4AAAAJ&hl=en&oi=sra) | [Link](https://ieeexplore.ieee.org/author/37278387400) | - | - |
+| [Marco Pavone](https://web.stanford.edu/~pavone/index.html) | [NVIDIA Research (AV)](https://nvr-avg.github.io/) | NVIDIA | [Link](https://scholar.google.com/citations?user=RhOpyXcAAAAJ&hl=en&oi=ao) | [Link](https://ieeexplore.ieee.org/author/37307912900) | [Link](https://github.com/NVlabs) | - |
 | - | [Google-Research](https://research.google/) | Google | - | - | [Link](https://github.com/google-research/google-research) | - |
 | - | [NOAH'S ARK Lab](https://noahlab.com.hk/#/home) | HUAWEI | - | - | [Link](https://github.com/huawei-noah) | - |
 | - | [OpenAI](https://openai.com/) | OpenAI | - | - | [Link](https://github.com/openai) | - |
@@ -56,6 +56,33 @@ Academic Group
 | - | [Meta Research](https://research.facebook.com/) | Meta | - | - | [Link](https://github.com/facebookresearch) | - |
 | Mikio Takenaka | [R&D Center](https://www.sony.com/en/SonyInfo/research/about/china-laboratory/) | SONY | - | - | - | - |
 | - | [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html) | Intel | - | - | [Link](https://github.com/IntelLabs) | - |
-| [Naiyan Wang](https://winsty.net/) | [TuSimple](https://cn.tusimple.com/) | TuSimple | - | [Link](https://ieeexplore.ieee.org/author/37085671305) | - | [Link](https://github.com/TuSimple) |
+| [Naiyan Wang](https://winsty.net/) | [TuSimple](https://cn.tusimple.com/) | TuSimple | [Link](https://ieeexplore.ieee.org/author/37085671305) | [Link](https://ieeexplore.ieee.org/author/37085671305) | - | [Link](https://github.com/TuSimple) |
+
+## Awesome-CV-Team
+- [Awesome-CV-Team](https://github.com/extreme-assistant/Awesome-CV-Team)
+
+Simulator
+======
+
+| Name | Homepage | github | Contributor |
+| :---: | :---: |  :---: |  :---: | 
+| Veins | [Link](http://veins.car2x.org/) | [Link](https://github.com/veins) | [Christoph Sommer](https://www.cms-labs.org/people/sommer/) |
+| OMNeT++ | [Link](https://omnetpp.org/) | [Link](https://github.com/omnetpp) | TÖRÖK Attila |
+| SUMO | [Link](https://sumo.dlr.de/docs/index.html) | [Link](https://github.com/eclipse/sumo) | Jakob Erdmann |
+| CARLA | [Link](http://carla.org/) | [Link](https://github.com/carla-simulator) | [Felipe Codevilla](https://www.codevilla.info/) ; [Alexey Dosovitskiy](https://scholar.google.com/citations?user=FXNJRDoAAAAJ&hl=en&oi=sra) |
+| ns-3 | [Link](https://www.nsnam.org/) | [Link](https://github.com/nsnam) | [Alex Afanasyev](https://users.cs.fiu.edu/~afanasyev/) |
+| CVX | [Link](http://cvxr.com/) | [Link](https://github.com/cvxr) | [Michael C. Grant](http://cvxr.com/bio/) |
+| Tensorflow | [Link](https://www.tensorflow.org/?hl=zh-cn) | [Link](https://github.com/tensorflow/tensorflow) | [Mihai Maruseac](https://mihai.page/) |
+| PyTorch | [Link](https://pytorch.org/) | [Link](https://github.com/pytorch) | [Soumith Chintala](https://soumith.ch/) |
 
 
+Autonomous Driving Dataset
+======
+
+### Single vehicle 
+- [KITTI](https://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d)
+- [nuScenes](https://www.nuscenes.org/)
+- [OpenDataLab](https://opendatalab.org.cn/home)
+
+### Cooperative
+- [Collaborative_Perception](https://github.com/Little-Podi/Collaborative_Perception)
