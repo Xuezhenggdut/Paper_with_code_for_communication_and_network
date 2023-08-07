@@ -24,7 +24,7 @@ WikiCFP: [A Wiki for Calls for Papers](http://www.wikicfp.com/cfp/)
 
 
 ## Others
-- [CVPR(2019-2023)-Papers-with-Code](https://github.com/amusi/ICCV2023-Papers-with-Code)
+- [CVPR(2019-2023)-Papers-with-Code](https://github.com/amusi/CVPR2023-Papers-with-Code)
 - [ICCV(2021、2023)-Papers-with-Code](https://github.com/amusi/ICCV2023-Papers-with-Code)
 - [ECCV2022-Papers-with-Code](https://github.com/amusi/ECCV2022-Papers-with-Code)
 
