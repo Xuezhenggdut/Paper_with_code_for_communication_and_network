@@ -4,6 +4,8 @@ CCF: [Recommended Publications by China Computer Federation](https://www.ccf.org
 
 THU: [Important Conference Directory](https://www.sist.tsinghua.edu.cn/__local/0/E3/67/303DEC8D1B54395036E70EECAF6_AD515DFB_5643C0.pdf?e=.pdf)
 
+BUPT: [Important Conference Directory](https://sice.bupt.edu.cn/kxyj/zyhylb.htm)
+
 dblp: [Computer science bibliography](https://dblp.org/)
 
 Conference Partner: [Information about Academic Conferences](https://www.myhuiban.com/)
