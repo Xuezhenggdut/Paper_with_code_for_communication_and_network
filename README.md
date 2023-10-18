@@ -34,6 +34,7 @@ WikiCFP: [A Wiki for Calls for Papers](http://www.wikicfp.com/cfp/)
 - [ECCV2022-Papers-with-Code](https://github.com/amusi/ECCV2022-Papers-with-Code)
 - [ICCV-2023-Papers](https://github.com/DmitryRyumin/ICCV-2023-Papers)
 - [Awesome Federated Machine Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning)
+- [Federated Learning Resources](https://youngfish42.github.io/Awesome-FL/)
 
 # Researcher/Group Profiling
 - [Researcher/Group Profiling in IoV / Intelligent Connected Vehicles /    Autonomous Driving / Intelligent Transportation Field.](./researcher_group_profiles.md)
