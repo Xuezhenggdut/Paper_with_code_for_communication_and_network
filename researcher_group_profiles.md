@@ -52,7 +52,7 @@ Academic Group
 | [Xiang Bai](https://xbai.vlrlab.net/) | [VLR group](https://vlrlab.net/) | Huazhong University of Science and Technology | [Link](https://scholar.google.com/citations?user=UeltiQ4AAAAJ&hl=en&oi=sra) | [Link](https://ieeexplore.ieee.org/author/37307015500) | - |
 | Yuexin Ma | [4DV Lab](https://yuexinma.me/index.html) | ShanghaiTech University | [Link](https://scholar.google.com/citations?user=DIsP7rUAAAAJ&hl=zh-CN) | [Link](https://ieeexplore.ieee.org/author/37089018085) | [Link](https://github.com/4DVLab) |
 | Moshe Ben-Akiva | [ITS Lab](https://www.its.mit.edu/) | MIT | [Link](https://scholar.google.com/citations?user=HubmsyoAAAAJ&hl=en&oi=ao) | [Link](https://ieeexplore.ieee.org/author/38277775200) | - | - |
-| [Song Han](https://songhan.mit.edu/) | [HAN Lab](https://songhan.mit.edu/) | MIT | [Link](https://scholar.google.com/citations?user=E0iCaa4AAAAJ&hl=en&oi=sra) | [Link](https://ieeexplore.ieee.org/author/37086460117) | - | [Link](https://github.com/mit-han-lab) |
+| [Song Han](https://songhan.mit.edu/) | [HAN Lab](https://songhan.mit.edu/) | MIT | [Link](https://scholar.google.com/citations?user=E0iCaa4AAAAJ&hl=en&oi=sra) | [Link](https://ieeexplore.ieee.org/author/37086460117) | [Link](https://github.com/mit-han-lab) | - |
 | Chen Lv | [AutoMan Research Lab](https://lvchen.wixsite.com/automan) | Nanyang Technological University | [Link](https://scholar.google.com/citations?user=UKVs2CEAAAAJ&hl=en) | [Link](https://ieeexplore.ieee.org/author/37086095836) |
 | [Ding Zhao](https://safeai-lab.github.io/people.html) | [CMU Safe AI Lab](https://safeai-lab.github.io/index.html) | CMU | [Link](https://scholar.google.com/citations?user=z7tPc9IAAAAJ&hl=en&oi=sra) | [Link](https://ieeexplore.ieee.org/author/37085680141) | [Link](https://github.com/safeai-lab) | - |
 | Sebastian Steinhorst | [TUM ESI](https://www.ce.cit.tum.de/en/esi/home/) |  Technical University of Munich | [Link](https://scholar.google.com/citations?user=nUd33p4AAAAJ&hl=en&oi=ao) | [Link](https://ieeexplore.ieee.org/author/37543141800) | [Link](https://github.com/tum-esi) | - |
@@ -73,7 +73,7 @@ Academic Group
 | Mikio Takenaka | [R&D Center](https://www.sony.com/en/SonyInfo/research/about/china-laboratory/) | SONY | - | - | - | - |
 | - | [DAMO Academy, ADLab-AutoDrive](https://damo.alibaba.com/) | Alibaba Group | - | - | [Link](https://github.com/ADLab-AutoDrive) | - |
 | - | [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html) | Intel | - | - | [Link](https://github.com/IntelLabs) | - |
-| [Naiyan Wang](https://winsty.net/) | [TuSimple](https://cn.tusimple.com/) | TuSimple | [Link](https://ieeexplore.ieee.org/author/37085671305) | [Link](https://ieeexplore.ieee.org/author/37085671305) | - | [Link](https://github.com/TuSimple) |
+| [Naiyan Wang](https://winsty.net/) | [TuSimple](https://cn.tusimple.com/) | TuSimple | [Link](https://ieeexplore.ieee.org/author/37085671305) | [Link](https://ieeexplore.ieee.org/author/37085671305) | [Link](https://github.com/TuSimple) | - |
 
 ## CV-Team
 - [Awesome-CV-Team](https://github.com/extreme-assistant/Awesome-CV-Team)
