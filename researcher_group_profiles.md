@@ -102,4 +102,4 @@ Autonomous Driving Dataset
 - [OpenDataLab](https://opendatalab.org.cn/home)
 
 ### Cooperative
-- [Collaborative_Perception](https://github.com/Little-Podi/Collaborative_Perception)
+- [Collaborative_Perception](https://github.com/Little-Podi/Collaborative_Perception) | [![Stars](https://img.shields.io/github/stars/Little-Podi/Collaborative_Perception#readme.svg?color=orange)](https://github.com/Little-Podi/Collaborative_Perception#readme/stargazers) | ![Last Commit](https://img.shields.io/github/last-commit/Little-Podi/Collaborative_Perception#readme?label=&message=Commit) |
