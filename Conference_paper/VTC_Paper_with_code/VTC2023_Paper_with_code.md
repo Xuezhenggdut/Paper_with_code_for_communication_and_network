@@ -72,3 +72,58 @@
 [17] Using UAVs for the fast detection and characterization of polluted areas
 * Paper: [https://ieeexplore.ieee.org/abstract/document/10201093](https://ieeexplore.ieee.org/abstract/document/10201093)
 * Code: [https://github.com/GRCDEV/ArduSim](https://github.com/GRCDEV/ArduSim)
+
+## IEEE VTC2023-Fall
+[18] 5GTQ: QoS-Aware 5G-TSN Simulation Framework
+* Paper: [https://ieeexplore.ieee.org/abstract/document/10333533](https://ieeexplore.ieee.org/abstract/document/10333533)
+* Code: [https://github.com/tum-esi/5GTQ](https://github.com/tum-esi/5GTQ)
+
+[19] A proposal for a remote vehicle control emulator coordinated with CARLA, OMNeT++, and SUMO
+* Paper: [https://ieeexplore.ieee.org/abstract/document/10333658](https://ieeexplore.ieee.org/abstract/document/10333658)
+* Code: [https://github.com/umlaeute/v4l2loopback](https://github.com/umlaeute/v4l2loopback)
+
+[20] An empirical evaluation of BLE for ITS scenarios
+* Paper: [https://ieeexplore.ieee.org/abstract/document/10333713](https://ieeexplore.ieee.org/abstract/document/10333713)
+* Code: [https://github.com/nicslabdev/micro-vanetza](https://github.com/nicslabdev/micro-vanetza)
+* Code: [https://github.com/nicslabdev/ble-its](https://github.com/nicslabdev/ble-its)
+
+[21] An Open Source Simulation Framework for Moving-Network-Convoy Based Cellular V2X Communication in Intelligent Traffic Systems
+* Paper: [https://ieeexplore.ieee.org/abstract/document/10333509](https://ieeexplore.ieee.org/abstract/document/10333509)
+* Code: [https://github.com/tum-air/ConvoyV2X](https://github.com/tum-air/ConvoyV2X)
+
+[22] Are VANETs pseudonyms effective? An experimental evaluation of pseudonym tracking in adversarial scenario
+* Paper: [https://ieeexplore.ieee.org/abstract/document/10333561](https://ieeexplore.ieee.org/abstract/document/10333561)
+* Code: [https://github.com/SECloudUNIMORE/ACS](https://github.com/SECloudUNIMORE/ACS)
+
+[23] AVARS - Alleviating Unexpected Urban Road Traffic Congestion using UAVs
+* Paper: [https://ieeexplore.ieee.org/abstract/document/10333677](https://ieeexplore.ieee.org/abstract/document/10333677)
+* Code: [https://github.com/Guojyjy/AVARS](https://github.com/Guojyjy/AVARS)
+
+[24] DCDN: Estimating Handover Parameter Adjusting Effect with Causal Inference
+* Paper: [https://ieeexplore.ieee.org/abstract/document/10333788](https://ieeexplore.ieee.org/abstract/document/10333788)
+* Code: [https://github.com/hsmham/DCDN](https://github.com/hsmham/DCDN)
+
+[25] From Empirical Measurements to Augmented Data Rates: A Machine Learning Approach for MCS Adaptation in Sidelink Communication
+* Paper: [https://ieeexplore.ieee.org/abstract/document/10333593](https://ieeexplore.ieee.org/abstract/document/10333593)
+* Code: [https://github.com/fraunhoferhhi/sidelink-mcs-measurements](https://github.com/fraunhoferhhi/sidelink-mcs-measurements)
+
+[26] On Adaptive Client/Miner Selection for Efficient Blockchain-Based Decentralized Federated Learning
+* Paper: [https://ieeexplore.ieee.org/abstract/document/10333630](https://ieeexplore.ieee.org/abstract/document/10333630)
+* Code: [https://github.com/zalandoresearch/fashion-mnist](https://github.com/zalandoresearch/fashion-mnist)
+
+[27] Secure and Dynamic Publish/Subscribe: LCMsec
+* Paper: [https://ieeexplore.ieee.org/abstract/document/10333516](https://ieeexplore.ieee.org/abstract/document/10333516)
+* Code: [https://github.com/Barkhausen-Institut/lcm-sec](https://github.com/Barkhausen-Institut/lcm-sec)
+
+[28] SensingBay: an Affordable Roadside Sensing System for Student Vehicle Competitions
+* Paper: [https://ieeexplore.ieee.org/abstract/document/10333538](https://ieeexplore.ieee.org/abstract/document/10333538)
+* Code: [https://github.com/andyblarblar/timebay](https://github.com/andyblarblar/timebay)
+
+[29] Task-Oriented Semantic Communications for Speech Transmission
+* Paper: [https://ieeexplore.ieee.org/abstract/document/10333632](https://ieeexplore.ieee.org/abstract/document/10333632)
+* Code: [https://github.com/Zhenzi-Weng/TOS-ST/tree/main/MT_datasets](https://github.com/Zhenzi-Weng/TOS-ST/tree/main/MT_datasets)
+
+
+
+
+
